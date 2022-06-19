@@ -94,7 +94,7 @@ def main():
 			Updating_System()
 		elif menu == "3":
 			Fix_PGP_Error()
-			else:
+		else:
 			continue
 def banner():
 	print("""
