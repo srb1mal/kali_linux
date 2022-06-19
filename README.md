@@ -12,9 +12,9 @@ git clone https://github.com/srb1mal/kali_linux.git
 ```
 - Atfer download write : 
 ```
-cd Kali-Linux-Repair
+cd kali_linux
 ```
 - And : 
 ```
-python3 kali_linux_repair.py
+python3 kali-repair.py
 ```
